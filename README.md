@@ -1,6 +1,8 @@
 # voice_assistant_app
 -This is a voice assistant application using ChatGPT and DALL-E AI Image generation | Machine learning
+
 -Here you can get an idea of how to integrate APIs
+
 -Voice assistant helps you to provide the data of your requirement using these openAI APIs.
 
 #To get started with Flutter here are some of the resources 
