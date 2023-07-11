@@ -1,3 +1,4 @@
 
 const openAIAPIKey='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';
 const openapiKEY='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';
+const openApiKey='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';
